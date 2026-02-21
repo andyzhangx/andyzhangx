@@ -4,11 +4,11 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
  - upstream LLM projects (maintainer/approver)
    - https://github.com/kaito-project/kaito
      - An operator that automates AI model inference or tuning workloads within a Kubernetes cluster, similar to projects like [dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d).
- - upstream Kubernetes projects (owner/approver)
+ - upstream Kubernetes storage driver projects (owner/approver)
    - https://github.com/kubernetes-csi/csi-driver-smb
    - https://github.com/kubernetes-csi/csi-driver-nfs
    - https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner
- - upstream Azure projects (owner/approver)
+ - upstream Azure cloud provider projects (owner/approver)
    - https://github.com/kubernetes-sigs/azuredisk-csi-driver
    - https://github.com/kubernetes-sigs/azurefile-csi-driver
    - https://github.com/kubernetes-sigs/blob-csi-driver
