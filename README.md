@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service team, specializing in setting up and optimizing AI inference services on Kubernetes, as well as maintaining Kubernetes storage projects. I am the maintainer of following CNCF upstream projects, including:
+I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service team, specializing in setting up and optimizing AI inference services on Kubernetes, as well as maintaining Kubernetes storage projects. At present, I am the maintainer/approver of following CNCF upstream projects, including:
  - upstream LLM projects (maintainer/approver)
    - https://github.com/kaito-project/kaito
      - An operator that automates AI model inference or tuning workloads within a Kubernetes cluster, similar to projects like [dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d).
