@@ -22,7 +22,7 @@ I have made following achievements in the CNCF community:
     - [HOL: Build & Deploy a Basic Kubernetes Application using Azure AKS](https://lc32018.sched.com/event/FKUH) in LC3 China 2018
   - CNCF Award
     - [Kubernetes Contributor Award Winner in 2022](https://www.kubernetes.dev/community/awards/2022/#storage)
-    - Candidate in CNCF Top Committer Award 2025
+    - Nominee for the CNCF Top Committer Award 2025
   - Other 
     - [Top#1 CNCF project contributor in China 2024](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
 
