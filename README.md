@@ -9,7 +9,11 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
  - https://github.com/kubernetes-sigs/azurefile-csi-driver
  - https://github.com/kubernetes-sigs/blob-csi-driver
 
-I have delivered multiple KubeCon sessions including KubeCon HongKong 2024&2025, KubeCon Europe 2020, etc.
+I have delivered multiple KubeCon & ContainerCon sessions including:
+ - [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) in KubeCon HongKong 2025
+ - [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) in KubeCon HongKong 2024
+ - [Deep Dive into Cloud Provider for Azure](https://sched.co/Zew3) in KubeCon Europe 2020
+ - [HOL: Build & Deploy a Basic Kubernetes Application using Azure AKS](https://lc32018.sched.com/event/FKUH) in LC3 China 2018
 
 <!--
 **andyzhangx/andyzhangx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
