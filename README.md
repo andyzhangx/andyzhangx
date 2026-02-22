@@ -1,9 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service team, specializing in setting up and optimizing AI inference services on Kubernetes, as well as maintaining Kubernetes storage projects. 
 
-I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service team, specializing in setting up and optimizing AI inference services on Kubernetes, as well as maintaining Kubernetes storage projects. At present, I am the maintainer/approver of following CNCF upstream projects, including:
+#### At present, I am the maintainer/approver of following CNCF upstream projects, including:
  - upstream LLM projects (maintainer/approver)
    - https://github.com/kaito-project/kaito
-     - An operator that automates AI model inference or tuning workloads within a Kubernetes cluster, similar to projects like [dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d).
+     - An operator that automates AI model inference or tuning workloads within a Kubernetes cluster, similar to projects like [Nvidia dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d).
  - upstream Kubernetes storage driver projects (owner/approver)
    - https://github.com/kubernetes-csi/csi-driver-smb
    - https://github.com/kubernetes-csi/csi-driver-nfs
@@ -14,7 +15,7 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
    - https://github.com/kubernetes-sigs/blob-csi-driver
    - https://github.com/kubernetes-sigs/cloud-provider-azure
 
-I have made following achievements in the CNCF community:
+#### I have achieved the following within the CNCF community:
   - Presented several sessions at KubeCon and ContainerCon, including:
     - [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) in KubeCon HongKong 2025
     - [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) in KubeCon HongKong 2024
@@ -26,7 +27,7 @@ I have made following achievements in the CNCF community:
   - Other 
     - [Top#1 CNCF project contributor in China 2024](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
 
-In addition, I served as a mentor in the [Linux Community Bridge program](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), where I guided college students working on Kubernetes projects.
+#### In addition, I served as a mentor in the [Linux Community Bridge program](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), where I guided college students working on Kubernetes projects.
 
 <!--
 **andyzhangx/andyzhangx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
