@@ -28,6 +28,8 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
     - [Top#1 CNCF project contributor in China 2024](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
     - In addition, I served as a mentor in the [Linux Community Bridge program](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), where I guided college students working on Kubernetes projects.
 
+![Repos I contributed to](https://github-contrib-stats.vercel.app/andyzhangx/contributed.svg?max_repos=10)
+
 <!--
 **andyzhangx/andyzhangx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
