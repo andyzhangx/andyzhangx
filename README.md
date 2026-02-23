@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service team, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few Kubernetes storage and Azure cloud provider projects. 
+I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service(AKS) team, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few upstream Kubernetes storage projects and also Azure cloud provider projects. 
 
 #### At present, I am the maintainer/approver of following CNCF upstream projects:
  - upstream LLM projects (maintainer/approver)
