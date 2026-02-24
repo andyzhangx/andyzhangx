@@ -5,6 +5,7 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
  - upstream AI LLM projects (maintainer/approver)
    - https://github.com/kaito-project/kaito
      - A project that automates AI LLM model inference or tuning workloads within a Kubernetes cluster, similar to projects like [Nvidia dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d)
+   - https://github.com/kaito-project/keda-kaito-scaler 
  - upstream Kubernetes storage driver projects (owner/approver)
    - https://github.com/kubernetes-csi/csi-driver-smb
    - https://github.com/kubernetes-csi/csi-driver-nfs
