@@ -30,6 +30,8 @@ I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service
     - [BLOG: Autoscale KAITO inference workloads on AKS using KEDA](https://blog.aks.azure.com/2026/02/03/autoscale-inference-workloads-with-kaito)
     - In addition, I served as a mentor in the [Linux Community Bridge program](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), where I guided college students working on Kubernetes projects.
 
+<img align="left" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=andyzhangx&show_icons=true" />
+
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/andyzhangx/contributed.svg?max_repos=12)
 
 <!--
