@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Andy 👋
 I am a Principal Software Engineer working at Microsoft Azure Kubernetes Service(AKS) team, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few upstream Kubernetes storage projects and Azure cloud provider projects. 
 
 #### At present, I am the maintainer/approver of following CNCF upstream projects:
