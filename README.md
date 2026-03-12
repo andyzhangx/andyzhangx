@@ -1,5 +1,5 @@
 ### Hi, I am Andy Zhang (张夏) 👋
-I am a Principal Software Engineer working at Microsoft [Azure Kubernetes Service(AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks) team, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few upstream Kubernetes storage projects and Azure cloud provider projects. 
+I am a Principal Software Engineer working at Microsoft [Azure Kubernetes Service(AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks) team, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few upstream Kubernetes projects and Azure cloud provider projects. 
 
 #### At present, I am the maintainer/approver of following CNCF upstream projects:
  - upstream AI LLM projects (maintainer/approver)
