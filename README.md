@@ -18,17 +18,17 @@
 #### 💾 Kubernetes Storage Drivers (CSI)
 | Project | Role |
 |---------|------|
-| [csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner |
-| [csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner |
-| [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Approver |
+| [https://github.com/kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner |
+| [https://github.com/kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner |
+| [https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Owner |
 
 #### ☁️ Azure Cloud Provider
 | Project | Role |
 |---------|------|
-| [azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Owner |
-| [azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Owner |
-| [blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Owner |
-| [cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Owner |
+| [https://github.com/kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Owner |
+| [https://github.com/kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Owner |
+| [https://github.com/kubernetes-sigs/blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Owner |
+| [https://github.com/kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Owner |
 
 ---
 
