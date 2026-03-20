@@ -1,51 +1,67 @@
-### Hi, I am Andy Zhang (张夏) 👋
-I am a Principal Software Engineer working at Microsoft [Azure Kubernetes Service(AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks) team starting from 2017, specializing in setting up and optimizing AI LLM inference services on Kubernetes, as well as maintaining a few upstream Kubernetes projects and Azure cloud provider projects. 
+## Hi there, I'm Andy Zhang (张夏) 👋
 
-#### At present, I am the maintainer/approver of following CNCF upstream projects:
- - upstream AI LLM projects (maintainer/approver)
-   - https://github.com/kaito-project/kaito
-     - A project that automates AI LLM model inference or tuning workloads within a Kubernetes cluster, similar to projects like [Nvidia dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d)
-   - https://github.com/kaito-project/keda-kaito-scaler 
- - upstream Kubernetes storage driver projects (owner/approver)
-   - https://github.com/kubernetes-csi/csi-driver-smb
-   - https://github.com/kubernetes-csi/csi-driver-nfs
-   - https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner
- - upstream Azure cloud provider projects (owner/approver)
-   - https://github.com/kubernetes-sigs/azuredisk-csi-driver
-   - https://github.com/kubernetes-sigs/azurefile-csi-driver
-   - https://github.com/kubernetes-sigs/blob-csi-driver
-   - https://github.com/kubernetes-sigs/cloud-provider-azure
+[![Microsoft](https://img.shields.io/badge/Microsoft-Principal%20SWE-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
+[![CNCF](https://img.shields.io/badge/CNCF-Contributor%20Award%202022-326CE5?logo=cncf&logoColor=white)](https://www.kubernetes.dev/community/awards/2022/#storage)
 
-#### I have achieved the following in the CNCF community:
-  - Presented several sessions at KubeCon and ContainerCon, including:
-    - [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) in KubeCon HongKong 2025
-    - [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) in KubeCon HongKong 2024
-    - [Deep Dive into Cloud Provider for Azure](https://sched.co/Zew3) in KubeCon Europe 2020
-    - [HOL: Build & Deploy a Basic Kubernetes Application using Azure AKS](https://lc32018.sched.com/event/FKUH) in LC3 China 2018
-  - CNCF Award
-    - [Kubernetes Contributor Award Winner in 2022](https://www.kubernetes.dev/community/awards/2022/#storage)
-    - Nominee for the CNCF Top Committer Award 2025
-  - Other 
-    - [Top#1 CNCF project contributor in China 2024](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
-    - [BLOG: Autoscale KAITO inference workloads on AKS using KEDA](https://blog.aks.azure.com/2026/02/03/autoscale-inference-workloads-with-kaito)
-    - In addition, I served as a mentor in the [Linux Community Bridge program](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), where I guided college students working on Kubernetes projects.
+**Principal Software Engineer** at Microsoft, working on [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks) since 2017. I specialize in **AI/LLM inference optimization on Kubernetes** and maintain several upstream CNCF projects in the Kubernetes ecosystem.
 
-<img align="left" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=andyzhangx&show_icons=true" />
+---
+
+### 🚀 Open Source Projects I Maintain
+
+#### 🤖 AI / LLM Inference on Kubernetes
+| Project | Role | Description |
+|---------|------|-------------|
+| [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Automates AI/LLM model inference & tuning on Kubernetes — similar to [Nvidia Dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d) |
+| [KEDA-KAITO Scaler](https://github.com/kaito-project/keda-kaito-scaler) | Maintainer | KEDA external scaler for autoscaling KAITO inference workloads |
+
+#### 💾 Kubernetes Storage Drivers (CSI)
+| Project | Role |
+|---------|------|
+| [csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner |
+| [csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner |
+| [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Approver |
+
+#### ☁️ Azure Cloud Provider
+| Project | Role |
+|---------|------|
+| [azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Owner |
+| [azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Owner |
+| [blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Owner |
+| [cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Owner |
+
+---
+
+### 🏆 Highlights & Achievements
+
+- 🥇 [**#1 CNCF project contributor in China (2024)**](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
+- 🏅 [**Kubernetes Contributor Award Winner (2022)**](https://www.kubernetes.dev/community/awards/2022/#storage) — SIG Storage
+- 🏅 **Nominee — CNCF Top Committer Award (2025)**
+- 🧑‍🏫 **Mentor** — [LFX Mentorship (Linux Community Bridge)](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), guiding students on Kubernetes projects
+
+---
+
+### 🎤 Conference Talks
+
+| Year | Conference | Talk |
+|------|-----------|------|
+| 2025 | KubeCon Hong Kong | [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) |
+| 2024 | KubeCon Hong Kong | [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) |
+| 2020 | KubeCon Europe | [Deep Dive into Cloud Provider for Azure](https://sched.co/Zew3) |
+| 2018 | LC3 China | [HOL: Build & Deploy a Basic Kubernetes Application using Azure AKS](https://lc32018.sched.com/event/FKUH) |
+
+---
+
+### 📝 Recent Writing
+
+- [Autoscale KAITO inference workloads on AKS using KEDA](https://blog.aks.azure.com/2026/02/03/autoscale-inference-workloads-with-kaito) — AKS Blog, Feb 2026
+
+---
+
+### 📊 Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=andyzhangx&show_icons=true" />
+</p>
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/andyzhangx/contributed.svg?max_repos=12)
-
-<!--
-**andyzhangx/andyzhangx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
