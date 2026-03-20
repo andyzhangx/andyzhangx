@@ -15,7 +15,7 @@
 | [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Automates AI/LLM model inference & tuning on Kubernetes — similar to [Nvidia Dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d) |
 | [KEDA-KAITO Scaler](https://github.com/kaito-project/keda-kaito-scaler) | Maintainer | KEDA external scaler for autoscaling KAITO inference workloads |
 
-#### 💾 Kubernetes Storage Drivers (CSI)
+#### 💾 Upstream Kubernetes Storage Drivers (CSI)
 | Project | Role |
 |---------|------|
 | [https://github.com/kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner |
