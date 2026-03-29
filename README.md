@@ -4,7 +4,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Member-326CE5?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/org/blob/main/config/kubernetes/org.yaml)
 [![CNCF](https://img.shields.io/badge/CNCF-Contributor%20Award%202022-326CE5?logo=cncf&logoColor=white)](https://www.kubernetes.dev/community/awards/2022/#storage)
 
-**Principal Software Engineer** at Microsoft, working on [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks) since 2017. I specialize in **AI/LLM inference optimization on Kubernetes** and maintain several upstream CNCF projects in the Kubernetes ecosystem.
+**Principal Software Engineer** at Microsoft, leading storage and AI infrastructure in [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks). Currently focused on **optimizing AI/LLM inference workloads on Kubernetes**. Maintainer of KAITO, SMB/NFS/Azure CSI drivers, and other CNCF projects.
 
 ---
 
