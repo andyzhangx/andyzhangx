@@ -19,9 +19,9 @@
 #### 💾 Upstream Kubernetes Storage Drivers
 | Project | Role | Stars |
 |---------|------|-------|
-| [csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-smb?style=flat-square&label=) |
-| [csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-nfs?style=flat-square&label=) |
-| [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&label=) |
+| [https://github.com/kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-nfs?style=flat-square&label=) |
+| [https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&label=) |
+| [https://github.com/kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-smb?style=flat-square&label=) |
 
 #### ☁️ Azure CSI drivers and Cloud Provider
 | Project | Role |
