@@ -13,23 +13,23 @@
 #### 🤖 AI / LLM Inference on Kubernetes
 | Project | Role | Description |
 |---------|------|-------------|
-| [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Automates LLM inference, fine-tuning & RAG deployment on Kubernetes with managed GPU provisioning — covers similar inference scenarios as [Nvidia Dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d) but as a Kubernetes-native operator |
+| [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Kubernetes AI Toolchain Operator — automates LLM inference, fine-tuning & RAG deployment with managed GPU provisioning 🆕 [Karpenter provisioner](https://github.com/kaito-project/kaito/pull/1982) |
 | [KEDA-KAITO Scaler](https://github.com/kaito-project/keda-kaito-scaler) | Maintainer | KEDA external scaler that autoscales KAITO inference workloads based on pending request metrics |
 
 #### 💾 Upstream Kubernetes Storage Drivers
 | Project | Role | Stars |
 |---------|------|-------|
-| [https://github.com/kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-nfs?style=flat-square&label=) |
-| [https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&label=) |
-| [https://github.com/kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-smb?style=flat-square&label=) |
+| [csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-nfs?style=flat-square&label=) |
+| [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/sig-storage-local-static-provisioner?style=flat-square&label=) |
+| [csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-csi/csi-driver-smb?style=flat-square&label=) |
 
-#### ☁️ Azure CSI drivers and Cloud Provider
-| Project | Role |
-|---------|------|
-| [https://github.com/kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Owner |
-| [https://github.com/kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Owner |
-| [https://github.com/kubernetes-sigs/blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Owner |
-| [https://github.com/kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Owner |
+#### ☁️ Azure CSI Drivers and Cloud Provider
+| Project | Role | Stars |
+|---------|------|-------|
+| [azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azuredisk-csi-driver?style=flat-square&label=) |
+| [azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azurefile-csi-driver?style=flat-square&label=) |
+| [blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/blob-csi-driver?style=flat-square&label=) |
+| [cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Owner | ![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cloud-provider-azure?style=flat-square&label=) |
 
 ---
 
