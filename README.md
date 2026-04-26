@@ -13,8 +13,8 @@
 #### 🤖 AI / LLM Inference on Kubernetes
 | Project | Role | Description |
 |---------|------|-------------|
-| [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Automates AI/LLM model inference & tuning on Kubernetes — similar to [Nvidia Dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d) |
-| [KEDA-KAITO Scaler](https://github.com/kaito-project/keda-kaito-scaler) | Maintainer | KEDA external scaler for autoscaling KAITO inference workloads |
+| [KAITO](https://github.com/kaito-project/kaito) | Maintainer | Automates LLM inference, fine-tuning & RAG deployment on Kubernetes with managed GPU provisioning — covers similar inference scenarios as [Nvidia Dynamo](https://github.com/ai-dynamo/dynamo) and [llm-d](https://github.com/llm-d/llm-d) but as a Kubernetes-native operator |
+| [KEDA-KAITO Scaler](https://github.com/kaito-project/keda-kaito-scaler) | Maintainer | KEDA external scaler that autoscales KAITO inference workloads based on pending request metrics |
 
 #### 💾 Upstream Kubernetes Storage Drivers
 | Project | Role | Stars |
