@@ -38,7 +38,7 @@
 - 🥇 [**#1 CNCF project contributor in China (2024)**](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-metric=commits&var-repogroup_name=All&var-country_name=China&var-companies=All)
 - 🏅 [**Kubernetes Contributor Award Winner (2022)**](https://www.kubernetes.dev/community/awards/2022/#storage) — SIG Storage
 - 🏅 **Nominee — CNCF Top Committer Award (2025)**
-- 🧑‍🏫 **Mentor** — [LFX Mentorship (Linux Community Bridge)](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), guiding students on Kubernetes projects
+- 🧑‍🏫 **Mentor** — [LFX Mentorship (Linux Community Bridge)](https://mentorship.lfx.linuxfoundation.org/project/cc183437-7d11-41f3-ab6f-015c63629b44), Mentored students on Kubernetes open-source contributions including CSI driver projects.
 
 ---
 
