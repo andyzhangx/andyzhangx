@@ -59,10 +59,4 @@
 
 ---
 
-### 📊 Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=andyzhangx&show_icons=true" />
-</p>
-
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/andyzhangx/contributed.svg?max_repos=12)
