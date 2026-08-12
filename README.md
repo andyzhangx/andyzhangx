@@ -4,7 +4,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Member-326CE5?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/org/blob/main/config/kubernetes/org.yaml)
 [![CNCF](https://img.shields.io/badge/CNCF-Contributor%20Award%202022-326CE5?logo=cncf&logoColor=white)](https://www.kubernetes.dev/community/awards/2022/#storage)
 
-**Principal Software Engineer** at Microsoft, leading storage and AI infrastructure in [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks). Currently focusing on **building AI/LLM inference infrastructure on Kubernetes**. Maintainer of multiple CNCF projects including KAITO, NFS/SMB CSI drivers and Azure CSI drivers (Disk, File, Blob).
+**Principal Software Engineer** at Microsoft, leading storage and AI infrastructure in [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks). Currently focusing on **building AI/LLM inference infrastructure on Kubernetes**. Maintainer of multiple CNCF projects including [KAITO](https://github.com/kaito-project/kaito), [NFS](https://github.com/kubernetes-csi/csi-driver-nfs)/[SMB](https://github.com/kubernetes-csi/csi-driver-smb) CSI drivers and Azure CSI drivers ([Disk](https://github.com/kubernetes-sigs/azuredisk-csi-driver), [File](https://github.com/kubernetes-sigs/azurefile-csi-driver), [Blob](https://github.com/kubernetes-sigs/blob-csi-driver)).
 
 ---
 
