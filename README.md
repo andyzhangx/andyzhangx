@@ -46,6 +46,7 @@
 
 | Year | Conference | Talk |
 |------|-----------|------|
+| 2026 | KubeCon North America | [Prefill Here, Decode There: Kubernetes-Native LLM Inference Disaggregation with KAITO and llm-d](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1263142) |
 | 2025 | KubeCon Hong Kong | [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) |
 | 2024 | KubeCon Hong Kong | [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) |
 | 2020 | KubeCon Europe | [Deep Dive into Cloud Provider for Azure](https://sched.co/Zew3) |
