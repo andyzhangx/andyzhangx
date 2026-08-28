@@ -50,7 +50,7 @@
 | 2025 | KubeCon Hong Kong | [Kata Confidential Containers Meet Persistent Storage: Overcoming CSI Driver Challenges](https://sched.co/1x5is) |
 | 2024 | KubeCon Hong Kong | [Deep Dive Into Windows CSI Driver HostProcess Containers](https://sched.co/1eYaE) |
 | 2020 | KubeCon Europe | [Deep Dive into Cloud Provider for Azure](https://sched.co/Zew3) |
-| 2018 | LC3 China | [HOL: Build & Deploy a Basic Kubernetes Application using Azure AKS](https://lc32018.sched.com/event/FKUH) |
+| 2018 | LC3 China | [HOL: Build & Deploy a Basic Kubernetes Application using Azure Kubernetes Service](https://lc32018.sched.com/event/FKUH) |
 
 ---
 
